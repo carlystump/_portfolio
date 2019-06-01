@@ -555,7 +555,7 @@ li {
   z-index: 1;
   width: 35%;
   height: 100vh;
-  background-image: url(/img/flower.jpeg);
+  background-image: url(/img/flower.JPEG);
 }
 
 .details-bold {
